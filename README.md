@@ -77,7 +77,7 @@ java -jar target/combatereapoluariiapp-1.0.0.jar
 
 ---
 
-## Screenshots
+## Screenshots (To add soon)
 
 ---
 
