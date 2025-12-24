@@ -94,7 +94,3 @@ java -jar target/combatereapoluariiapp-1.0.0.jar
 - AI capabilities powered by Google Gemini
 - Romanian environmental data and policies
 - Developed with AI assistance for enhanced productivity
-
----
-
-**If you find this project interesting, please consider giving it a star!**
