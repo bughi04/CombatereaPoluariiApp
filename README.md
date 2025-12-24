@@ -76,10 +76,6 @@ java -jar target/combatereapoluariiapp-1.0.0.jar
 
 ---
 
-## Screenshots (To add soon)
-
----
-
 ## Project Highlights
 
 - **Full-stack development** with modern Java practices
