@@ -490,6 +490,4 @@ Example questions:
 
 We welcome contributions from the community!
 
-*Together, we can make a difference! 🌱*
-
-</div>
+**Star this repo if you find it useful!**
